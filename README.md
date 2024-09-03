@@ -1,2 +1,2 @@
 # Galhartti-avalia-o
-repositorio paraminha avaliação 
+repositorio para minha avaliação 
